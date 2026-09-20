@@ -80,4 +80,6 @@ Here's what the system can do:
 **On Linux / macOS:**
 ```bash
 g++ -std=c++11 Main.cpp -o NeoVerse
+
+This is coursework for Richfield Graduate Institute of Technology. Feel free to look at it for learning purposes, but don't submit it as your own work if you're doing the same assignment! 😅
 ./NeoVerse
